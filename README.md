@@ -12,7 +12,6 @@ Download the [latest release](https://github.com/3saster/3DS_HomeMenu_Battery/re
 - Removed the connection bar and its texts (Internet, StreetPass, etc.), leaving only the signal indicator, which has been moved to the bottom right
 - Play Coins count and steps count moved to the bottom left corner of the top screen
 - Blue applet icons (from Kitsune)
-- Spinning cursor (from Kitsune)
 - Blue shutdown screen (from Kitsune)
 
 ## Screenshots
