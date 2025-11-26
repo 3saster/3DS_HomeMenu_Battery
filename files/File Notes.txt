@@ -4,7 +4,7 @@ Get Kitsune's mod (with Miiverse)
 Merge R-YaTian's battery patches (both), overwriting hud_LZ.bin
 	https://github.com/R-YaTian/3ds-battery-patches/releases/latest
 
-Import the following editted files, these are all the same across regions:
+Import the following edited files, these are conveniently all the same across regions:
 - hud.LZ
 	- blyt
 		- HudMenu_00.bclyt (Top menu layout)
@@ -12,3 +12,5 @@ Import the following editted files, these are all the same across regions:
 	- blyt
 		- LncBase_D_01.bclyt (Bottom menu applets)
 		- LncIconDist_01.bclyt (Bottom menu icons)
+	- anim
+		- LncCsr_00_Loop.bclan (Optional, disables the spinning cursor)
