@@ -1,0 +1,14 @@
+Get Kitsune's mod (with Miiverse)
+	https://aromakitsune.github.io/files/3DS/Kitsune-CustomHomeMenuUI.zip
+
+Merge R-YaTian's battery patches (both), overwriting hud_LZ.bin
+	https://github.com/R-YaTian/3ds-battery-patches/releases/latest
+
+Import the following editted files, these are all the same across regions:
+- hud.LZ
+	- blyt
+		- HudMenu_00.bclyt (Top menu layout)
+- launcher.LZ
+	- blyt
+		- LncBase_D_01.bclyt (Bottom menu applets)
+		- LncIconDist_01.bclyt (Bottom menu icons)
